@@ -35,4 +35,4 @@ We have three WAVE files, each of which is a mix
 
 Independent component analysis attempts to decompose a multivariate signal into independent non-Gaussian signals. As an example, sound is usually a signal that is composed of the numerical addition, at each time t, of signals from several sources. The question then is whether it is possible to separate these contributing sources from the observed total signal.
 
-<img src="https://github.com/shashank136/Original-signal-retrieval-from-mixture-using-ICA/blob/master/ica.png" width="350" title="hover text">
+<img src="https://github.com/shashank136/Original-signal-retrieval-from-mixture-using-ICA/blob/master/ica.png" title="hover text">
