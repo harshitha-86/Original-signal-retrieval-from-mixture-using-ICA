@@ -1,5 +1,5 @@
 # Unsupervised Learning
-## Project: Retrieval of original signals from a mix using Independent Component Analysis (ICA)
+## Project: Retrieval of original signals from a mix using Independent Component Analysis (ICA) in Machine Learning.
 
 ### Install
 
